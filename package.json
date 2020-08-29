@@ -1,0 +1,20 @@
+{
+  "name": "elastic-node",
+  "version": "1.0.0",
+  "description": "App for real time search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "elastic": "^0.1.10",
+    "elasticsearch": "^16.7.1",
+    "express": "^4.17.1",
+    "parser": "^0.1.4",
+    "search": "^1.0.0"
+  }
+}
